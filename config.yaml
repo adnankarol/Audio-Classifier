@@ -1,0 +1,5 @@
+# Config File for app.py
+
+# Path for Model
+path:
+      model: "audio_classifier.h5"
