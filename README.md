@@ -9,18 +9,6 @@ An End to End Audio Recognition Project using Deep Learning, Flask and AWS Cloud
 4. [ Model Deployment ](#Future_scope) 
 5. [ Additional Information ](#info)
 
-## Repository Contents
-The repository contains the following Files and Folders
-
-1. Training_Notebook.ipynb: Notebook containing training codes for audio classification.
-2. Dockerfile: Docker File for Deployment.
-3. requirements.txt: Contains various packages and dependencies required for the project.
-4. config.yaml: Configuration file for changing variables and paths of the project.
-5. app.py: Backend for web application deployment using flask.
-6. templates: Frontend for web application deployment using flask.
-7. .gitignore: List of Files or Folders to be ignored by git.
-8. Images: Sample Output Screenshots.
-
 
 <a name="data"></a>
 # Dataset

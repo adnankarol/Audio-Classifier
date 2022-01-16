@@ -1,4 +1,5 @@
 # List of files/folders to be ignored by git
 
 Dataset/
+
 .ipynb_checkpoints
